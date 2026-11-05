@@ -43,7 +43,10 @@ https://naive-bayes-sentiment.streamlit.app/
 
 ## Project Structure
 
-Sentiment_Analysis/
+## Project Structure
+
+```text
+Sentiment-Analysis/
 │
 ├── app.py
 ├── Naive Bayes on review classification.ipynb
@@ -51,7 +54,7 @@ Sentiment_Analysis/
 ├── sentiment_data.csv
 ├── sentiment_model.pkl
 └── tfidf_vectorizer.pkl
-
+```
 
 ## Installation and Setup
 
